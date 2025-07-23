@@ -1,23 +1,21 @@
 ---
 permalink: /
-title: "Grace Liu"
+title: "Frederick Qiu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi I'm Grace. I'm a first-year PhD student in the MLD department at CMU. I'm interested in reinforcement learning and computational cognition applied to sustainability and societal decision making. I am very grateful to have been advised by [Tom Griffiths](https://cocosci.princeton.edu/tom/tom.php), [Rachit Dubey](https://rachit-dubey.github.io/), [Benjamin Eysenbach](https://ben-eysenbach.github.io/), and [Gabe Vecchi](https://vecchi.princeton.edu/people/gabriel-vecchi) during my undergrad and Master's at Princeton. I am also fortunate to be supported by the NSF GRFP fellowship.
-
+Hi I'm Freddy. I'm a second-year CS PhD student at Princeton. I'm interested in algorithmic mechanism design - developing algorithms for settings in which users have their own incentives. I am fortunate be advised by [Matt Weinberg](https://www.cs.princeton.edu/~smattw/) and collaborate with [Robert Kleinberg](https://www.cs.cornell.edu/~rdk/). During my undergrad at Princeton, I'm grateful to have also worked with [Huacheng Yu](https://www.cs.princeton.edu/~hy2/) and [Sahil Singla](https://faculty.cc.gatech.edu/~ssingla7/)
 ## Publications
 
-**A Single Goal is All You Need: Skills and Exploration Emerge from Contrastive RL without Rewards, Demonstrations, or Subgoals**\
-**Grace Liu**, Michael Tang, Benjamin Eysenbach\
-*ICLR 2025, IMOL Workshop @ NeurIPS 2024 (Oral)* \
-[Paper](https://arxiv.org/abs/2408.05804) | [Video](https://graliuce.github.io/sgcrl/) | [Code](https://github.com/graliuce/sgcrl/tree/main)
- 
+**Settling the communication complexity of vcg-based mechanisms for all approximation guarantees**\
+Frederick Qiu, S. Matthew Weinberg\
+*Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)* \
+[Paper](https://dl.acm.org/doi/abs/10.1145/3618260.3649706) | [Video](https://www.youtube.com/watch?v=FciXVzrBWMY)
 
 
-**Binary Climate Visuals Heighten Perceived Impact of Climate Change**\
-**Grace Liu**, Jake Snell, Tom Griffiths, and Rachit Dubey\
-*Nature Human Behavior* \
-[Paper](https://osf.io/t3pj5_v1) | [Code](https://github.com/graliuce/climate_change_detection)
+**Submodular dominance and applications**\
+Frederick Qiu, Sahil Singla\
+*International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX 2022)* \
+[Paper](https://arxiv.org/abs/2207.04957) | [Video](https://www.youtube.com/watch?v=Zt5cZSt1q3U)
