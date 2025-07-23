@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Grace Liu"
+title                    : "Frederick Qiu"
 title_separator          : "-"
-name                     : &name "Grace Liu"
+name                     : &name "Frederick Qiu"
 description              : &description "personal description"
-url                      : https://graliuce.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fqiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/graliuce.github.io"
+repository               : "academicpages/fqiu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,14 +22,14 @@ repository               : "academicpages/graliuce.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Grace Liu"
+  name             : "Frederick Qiu"
   pronouns         : # example: "she/her"  
   uri              : # URL
-  email            : "gliu2@andrew.cmu.edu" 
+  email            : "fqiu@princeton.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&hl=en&user=ehLi__8AAAAJ&authuser=2"
+  googlescholar    : #"https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&hl=en&user=ehLi__8AAAAJ&authuser=2"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -40,7 +40,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "graliuce"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
