@@ -19,5 +19,5 @@ Frederick Qiu, S. Matthew Weinberg\
 
 **Submodular dominance and applications**\
 Frederick Qiu, Sahil Singla\
-*International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX 2022)* \
+*Intl. Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX 2022)* \
 [Paper](https://arxiv.org/abs/2207.04957)
