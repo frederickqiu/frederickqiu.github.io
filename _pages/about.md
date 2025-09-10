@@ -13,7 +13,7 @@ Hi I'm Freddy. I'm a second-year CS PhD student at Princeton. I'm interested in 
 
 **Settling the Communication Complexity of VCG-based Mechanisms for All Approximation Guarantees**\
 Frederick Qiu, S. Matthew Weinberg\
-*In STOC 2024* &emsp;&nbsp;&nbsp; [Paper](https://dl.acm.org/doi/abs/10.1145/3618260.3649706) [Video](https://www.youtube.com/watch?v=FciXVzrBWMY)
+*In STOC 2024* &nbsp; [Paper](https://dl.acm.org/doi/abs/10.1145/3618260.3649706) [Video](https://www.youtube.com/watch?v=FciXVzrBWMY)
 
 
 **Submodular Dominance and Applications**\
