@@ -13,12 +13,12 @@ Hi I'm Freddy. I'm a second-year CS PhD student at Princeton. I'm interested in 
 
 **The Communication Complexity of Combinatorial Auctions with Additional Succinct Bidders**\
 Frederick Qiu, S. Matthew Weinberg, Qianfan Zhang\
-*To appear in SODA 2026*
+*In SODA 2026* &nbsp; [Paper](https://epubs.siam.org/doi/epdf/10.1137/1.9781611978971.78) [Slides]()
 
 
 **The k-Fold Matroid Secretary Problem**
 Rishi Gujjar, Kevin Hua, Robert Kleinberg, Frederick Qiu\
-*To appear in SOSA 2026*
+*In SOSA 2026* &nbsp; [Paper](https://epubs.siam.org/doi/epdf/10.1137/1.9781611978964.8) [Slides]()
 
 
 **Settling the Communication Complexity of VCG-based Mechanisms for All Approximation Guarantees**\
